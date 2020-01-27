@@ -1,6 +1,6 @@
 # Crypto-Walllet - Fast, Robust & Secure Digital Wallet -Blockchain in to it !!
 
-[![GitHub release (latest)](https://img.shields.io/github/v/release/appditto/natrium_wallet_flutter)]
+(https://img.shields.io/github/license/appditto/natrium_wallet_flutter)]
 
 ## What is Crypto-Walllet?
 

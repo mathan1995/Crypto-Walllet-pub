@@ -1,5 +1,5 @@
 # Crypto-Walllet - Fast, Robust & Secure Digital Wallet -Blockchain in to it !!
-(https://img.shields.io/twitter/follow/NatriumIO?style=social)](https://twitter.com/intent/follow?screen_name=NatriumIO)
+![Natrium Themes](https://natrium.io/assets/natrium-themes.jpg)
 
 ## What is Crypto-Walllet?
 
